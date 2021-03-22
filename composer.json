@@ -1,0 +1,21 @@
+{
+    "name": "leekhang/response",
+    "description": "Xử lý response của API",
+    "authors": [
+        {
+            "name": "Lê Bảo Khang",
+            "email": "lekhang2512@gmail.com"
+        }
+    ],
+    "require": {
+        "league/fractal": "^0.18.0",
+        "illuminate/pagination": "8.*",
+        "illuminate/support": "8.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Darkness\\Response\\": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
