@@ -1,16 +1,16 @@
 {
-    "name": "leekhang/response",
+    "name": "quangnd/response",
     "description": "Xử lý response của API",
     "authors": [
         {
-            "name": "Lê Bảo Khang",
-            "email": "lekhang2512@gmail.com"
+            "name": "Nguyen Duc Quang",
+            "email": "quang10031998@email.com"
         }
     ],
     "require": {
         "league/fractal": "^0.18.0",
-        "illuminate/pagination": "8.*",
-        "illuminate/support": "8.*"
+        "illuminate/pagination": ">=8.0",
+        "illuminate/support": ">=8.0"
     },
     "autoload": {
         "psr-4": {
